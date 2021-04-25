@@ -1,0 +1,11 @@
+jupyterlab==3.0.9
+matplotlib==3.3.4
+numpy==1.19.5
+pandas==1.2.3
+seaborn==0.11.1
+statsmodels==0.12.2
+sklearn==0.0
+vecstack==0.4.0
+tensorflow==2.4.1
+Keras==2.4.3
+xgboost==1.4.1
