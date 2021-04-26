@@ -1,4 +1,5 @@
 # Oddstradamus
+## Good odds and where to find them
 
 The author: [Daniel Müller](https://github.com/mue94)
 
@@ -30,7 +31,7 @@ The project in this repository is part of the final assessment of the Data Scien
 
 ## Conclusion
 
-![]( results .png)
+![](results.png)
 
 The best performance was ultimately achieved by the logistic regression on the _favourites data frame_ in predicting the two-way outcome between _away win (2)_ or double chance _home win or draw (1X)_. The model achieved a profit of 9.29% per period. However, it should also be noted that even the dummy classifier, after thoroughly pre-selecting the suitable matches, predicts an _away win (2)_ in every case and was able to achieve a profit of 8.14% per period. Provided that lower profits are accepted, this strategy is ultimately a much more manageable variant than using the original logistic regression with over 100 features.
 
