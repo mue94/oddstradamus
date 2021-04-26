@@ -28,6 +28,7 @@ The project in this repository is part of the final assessment of the Data Scien
 - [5 Model Home](https://github.com/mue94/oddstradamus/blob/main/05_Model_Home.ipynb): _Home Data Sets_ Defining the metric / Dummy Classifier / Scaling the data / Reducing the dimensions / Base models
 - [6 Model Away](https://github.com/mue94/oddstradamus/blob/main/06_Model_Away.ipynb): _Away Data Sets_ Defining the metric / Dummy Classifier / Scaling the data / Reducing the dimensions / Base models
 - [7 Results](https://github.com/mue94/oddstradamus/blob/main/07_Results.ipynb): Results / Recommendations / Limitations / Further Work
+- [Slides](https://github.com/mue94/oddstradamus/blob/main/oddstradamus-slides.pdf): Presentation of the capstone project
 
 ## Conclusion
 
@@ -41,7 +42,7 @@ The optimisation of the strategy is far from complete. The problem offers a mult
 
 
 - Optimisation of the individual algorithms not yet completed. Improvement potential of the hyperparameters not exhausted.
-- Inclusion of further data or features (e.g. ball possession, odd fluctuations or teams in direct duels).
+- Inclusion of further data or features (e.g. ball possession, odd movements or teams in direct duels).
 - Investigation of other target variables. Practically every playable bet conceivable.
 - Examine game selection with regard to the underdog tip. Are profitable wins also possible on a regular basis using ML in this area?
 - Develop different approaches to the optimal choice of betting stake.
